@@ -1,0 +1,20 @@
+﻿Build started 2015-10-06 15:29:56.
+     1>Project "C:\Users\Administrator\Dropbox\CV & relaterat\Portfolio\CreateCircle\CreateCircle\CreateCircle\CreateCircle\CreateCircle.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /Wall /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(16): warning C4668: '_DEBUG' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+     1>main.cpp(195): warning C4668: '_DEBUG' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Dropbox\CV & relaterat\Portfolio\CreateCircle\CreateCircle\CreateCircle\Release\CreateCircle.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Administrator\Dropbox\CV & relaterat\Portfolio\CreateCircle\CreateCircle\CreateCircle\Release\CreateCircle.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Dropbox\CV & relaterat\Portfolio\CreateCircle\CreateCircle\CreateCircle\Release\CreateCircle.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         Generating code
+         33 of 34 functions (97.1%) were compiled, the rest were copied from previous compilation.
+           2 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         Finished generating code
+         CreateCircle.vcxproj -> C:\Users\Administrator\Dropbox\CV & relaterat\Portfolio\CreateCircle\CreateCircle\CreateCircle\Release\CreateCircle.exe
+     1>Done Building Project "C:\Users\Administrator\Dropbox\CV & relaterat\Portfolio\CreateCircle\CreateCircle\CreateCircle\CreateCircle\CreateCircle.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.36
